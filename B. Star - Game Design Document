@@ -1,0 +1,85 @@
+# B. Star - Game Design Document
+
+## Overview
+**B. Star** is a first-person shooter with RPG elements set in a dark cyberpunk post-apocalyptic world. The game combines classic Doom-style action with cyberpunk themes, featuring a narrative-driven experience where players explore radioactive wastelands, isolated bunkers, and ruined megacities.
+
+## Setting
+In a mired post-apocalyptic future, civilization survives only in isolated bunkers. Between them stretch radioactive wastelands teeming with mutants, raider gangs, and malfunctioning combat robots. Cyberpunk elements permeate everything:
+- Neon signs of half-destroyed megacities
+- Implants that alter body and mind
+- Corporations secretly controlling bunkers
+- Hacked AIs managing city ruins
+
+## Player Character
+The player is an unnamed wanderer who left their home bunker seeking:
+- Truth about the catastrophe that destroyed the world
+- The legendary artifact "B. Star" (possibly a power source or weapon)
+- A cure for their progressive mutation
+
+## Core Gameplay Systems
+
+### Bunkers (Safe Zones)
+- Safe areas for rest, trading, and crafting
+- NPC traders, mechanics, hackers
+- Quests to explore wastelands or eliminate threats
+- Resource management and base upgrades
+
+### Wastelands (Danger Zones)
+- Dangerous zones with events (storms, ambushes, anomalies)
+- City ruins with valuable resources and traps
+- Encounters with mutants, cyborgs, and wild robots
+- Dynamic weather and environmental hazards
+
+### Technology and Upgrades
+- **Implants**: Enhance strength, speed, perception, grant hacking abilities
+- **Robot Companions**: Repair and reprogram robots for combat assistance
+- **Gene Injections**: Temporary mutations (regeneration, toxic claws, night vision)
+- **Cyber Weapons**: Plasma rifles, electromagnetic batons, hacking drones
+
+### Skill Progression System
+- Skill development: Hacking, shooting, stealth, engineering
+- Crafting unique implant sets for playstyle
+- Unlocking new injection types through research
+- Multiple paths to solve objectives
+
+## Enemy Types
+- **Cyborg Raiders**: Ruthless survivors with implants
+- **Combat Robots**: Army model remnants operating autonomously
+- **Mutants**: Radiation and failed experiment victims
+- **Corporate Mercenaries**: Elite fighters with advanced gear
+
+## Visual Style
+- Classic Doom aesthetic with cyberpunk elements
+- Contrast between dark wastelands and bright neon bunkers
+- Detailed sprites for implants and robots
+- Atmospheric lighting effects
+
+## Unique Features
+- No magic - only technology, genetic engineering, and mechanics
+- Dynamic implant system - combine modules for custom builds
+- Robot hacking - turn enemies into allies
+- Multiple solutions for every challenge
+
+## Storytelling
+Fragments of lore revealed through:
+- Records of deceased scientists
+- Dialogues with survivors
+- Hacked corporate databases
+- Environmental storytelling
+
+## Technical Implementation
+Based on id Tech engine (like Doom) with cyberpunk visual enhancements, featuring:
+- First-person perspective
+- Fast-paced combat
+- Interactive environment
+- Inventory management system
+- Dialogue trees
+
+## Game Flow
+1. Start in a bunker with basic equipment
+2. Accept quests to explore wastelands
+3. Gather resources and upgrade gear
+4. Discover story fragments
+5. Face increasingly dangerous enemies
+6. Unlock new abilities and areas
+7. Reach climax involving the B. Star artifact
